@@ -191,7 +191,7 @@
         <li>Copy the id under <code>ID</code></li>
         <li>Click <code>Pack extension</code></li>
         <li>Click <code>Browse</code> for <code>Extension root directory</code></li>
-        <li>Navigate to C:\Users\YOUR USERNAME HERE\AppData\Local\Google\Chrome\User Data\Default\Extensions\</li>
+        <li>Navigate to `C:\Users\YOUR USERNAME HERE\AppData\Local\Google\Chrome\User Data\Default\Extensions\`</li>
         <li>Open the folder that is named the id that you found in step 6</li>
         <li>Hold down shift, right click on the only folder shown, click <code>Copy as path</code></li>
         <li>Press <code>Select Folder</code></li>
